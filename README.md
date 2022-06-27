@@ -7,6 +7,7 @@ Image hosting (blog) written in React.
 ## Things used
   - Express.js (for backend api)
   - json-server (for localhost json api)
+  - react-icons 
   - React
 
 ## How to use
