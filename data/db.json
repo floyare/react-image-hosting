@@ -1,0 +1,22 @@
+{
+  "images": [
+    {
+      "path": "4In0kocZ2zQBvj.jpg",
+      "name": "Example",
+      "uploader": "Cool guy",
+      "id": 1
+    },
+    {
+      "path": "bYvRFM0I88rs2x.jpg",
+      "name": "Super image",
+      "uploader": "floyare",
+      "id": 2
+    },
+    {
+      "path": "loEGZpVxhFdg0c.jpg",
+      "name": "Woah",
+      "uploader": "admin",
+      "id": 3
+    }
+  ]
+}
